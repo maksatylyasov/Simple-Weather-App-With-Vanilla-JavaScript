@@ -1,1 +1,0 @@
-# Simple-Weather-App-With-Vanilla-JavaScript
